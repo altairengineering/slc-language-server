@@ -1,0 +1,401 @@
+Altair Engineering Inc. - Data Analytics Software License Agreement 
+
+THIS SOFTWARE LICENSE AGREEMENT ("AGREEMENT") SETS FORTH THE STANDARD TERMS AND 
+CONDITIONS FOR THE USE OF SOFTWARE AVAILABLE FROM ALTAIR AND WHICH IS ACCESSIBLE 
+VIA PHYSICAL MEDIA, A LICENSE FILE, OR FROM AN ALTAIR OR THIRD-PARTY WEBSITE OR 
+HOSTED COMPUTE RESOURCES.  THIS AGREEMENT SUPERSEDES ANY AND ALL PRIOR STANDARD 
+TERMS AND CONDITONS FOR ACCESS TO AND USE OF SUCH SOFTWARE.  BY CLICKING THE 
+ACCEPTANCE BOX OR INSTALLING AND/OR USING THE SOFTWARE, YOU ARE INDICATING YOUR 
+(I) ACCEPTANCE OF THE FOLLOWING STANDARD TERMS AND CONDITIONS, AND (II) AUTHORITY 
+TO CONTRACTUALLY BIND THE PERSON OR ENTITY ON WHOSE BEHALF YOU HAVE DONE SO. IN 
+THE EVENT THAT YOU OR YOUR EMPLOYER HAVE A CURRENT AND VALID NEGOTIATED 
+LICENSE AGREEMENT ON FILE WITH ALTAIR ("MASTER AGREEMENT"), THEN SUCH MASTER 
+AGREEMENT SHALL TAKE PRECEDENCE OVER THIS AGREEMENT.
+This Data Analytics Software License Agreement is between ALTAIR ENGINEERING INC. or its authorized 
+resellers ("Altair"), and you (the "Licensee"). Altair and Licensee, intending to be legally bound, hereby agree as 
+follows:  
+
+1. LICENSE GRANT: Pursuant to this Data Analytics Software License Agreement (the "License Agreement"), 
+Altair grants Licensee the following non-exclusive, non-assignable, non-transferable, limited license rights to the 
+software specified on the Altair Order Agreement or Quote (the "Quote"), in machine-readable object code form 
+only, any installation routines including license key codes, and the technical specifications, user documentation and 
+training materials associated therewith (the "Documentation") (collectively, the "Software"), subject to Licensee's 
+payment of the license fees as set forth in the Quote and to the terms and conditions set forth herein. 
+
+(a) Single Named User License. The Software is licensed to a single named user ("Single Named User") to be used 
+by that individual only on a single physical or virtual computer (the "Computer"). The Single Named User License 
+may be installed on a personal computer or workstation provided that the use of the Software is restricted to the 
+Single Named User. The license for a named individual user can be installed on a network server if the 
+corresponding network server license has been purchased. A separate license fee must be paid for each additional 
+Computer on which the Software is used, and the Software may not be used on more Computers than the number of 
+licenses listed on the Quote. Licensee may physically transfer the Software from one Computer to another in the 
+licensed individual's possession and control, provided that Licensee removes all copies of the Software from the 
+Computer from which the Software is being transferred. 
+
+(b) Network License. If ordered as a Network License, the Network License can be installed on a network server for 
+use only to allow client access to the Software on internal Computers. Each Computer that accesses the Software on 
+the network server must have a separate software license (other than the user manager software). A license for the 
+Software may not be shared or used concurrently on different servers. The number of CPUs contained in the server 
+must be equal to or be less than the number of CPUs the software is licensed for on that server. 
+
+(c) Subscription License. If ordered as a subscription license pursuant to an Quote, then Licensee may install and 
+Use one copy of the Software or the number of copies of the Software specified in the Quote, provided, however, 
+that Licensee's right to use the Software is time-limited to the term specified in the Quote. If Licensee does not 
+purchase a term extension prior to the expiration of the then-current term, then at the end of such term this License 
+Agreement (including any licenses granted hereunder) and the Quote shall be terminated pursuant to Section 7 
+below and Licensee must abide by all provisions stated therein. 
+
+(d) Units-enabled Subscription License. If ordered as a Units-enabled subscription license pursuant to a Quote, 
+Licensee licenses a pool of Altair Units which allows Licensee to Use Units-enabled Software under Altair's LMS 
+(defined below). When Units-enabled Software is invoked under Altair's LMS, the Units-enabled Software draws 
+down a predetermined number of Altair Units from the pool of Altair Units licensed (as identified on the Quote).  
+Licensee's right to use the Software is not perpetual and is time-limited to the term specified in the Quote. If 
+Licensee does not purchase a term extension prior to the expiration of the then-current term, then at the end of such 
+term this License Agreement (including any licenses and Units granted hereunder) and the Quote shall be terminated 
+pursuant to Section 7 below and Licensee must abide by all provisions stated therein. For purposes of this License 
+Agreement, "Altair's LMS" shall be defined as the license management system that accompanies the Software and 
+limits its use in accordance with this License Agreement, and which includes a license log file which gathers and 
+reports anonymized usage information of the Software which shall be made available to Altair automatically on no 
+less than a monthly basis.
+
+(e) "Use" and "Authorized User". For purposes of this License Agreement, "Use" means the processing of data for 
+Licensee's internal operations and "Authorized User" means Licensee or any of Licensee's employees who have 
+been granted access to the Software, as well as third-party consultants who use the Software on Licensee's behalf 
+and have executed confidentiality agreements with Licensee that are at least as protective of Altair's confidential 
+information as the provisions of this License Agreement, and have agreed to abide by all the terms and conditions of 
+this License Agreement and the Quote. Licensee agrees that Licensee is responsible to Altair for all use of the 
+Software by Authorized Users. 
+
+(f) Restrictions. The license rights granted to Licensee under this License Agreement and the Quote are expressly 
+conditioned upon Licensee's compliance at all times with the license restrictions set forth in this Section 1(f). 
+Failure to comply with such restrictions shall be grounds for Altair to terminate this License Agreement and the 
+Quote and Licensee's license rights hereunder immediately and without notice. Licensee shall not: 
+
+(i) Use, print, display, publish, disclose, transmit, record, encumber by way of security interest or otherwise 
+pledge or transfer, assign, distribute or make available the Software, except as expressly authorized herein. 
+Any attempted transfer, assignment, encumbrance or pledge in violation of this License Agreement shall be 
+void. 
+
+(ii) Make any copies of all or any part of the Software except for the number of installations of the 
+Software equal to the number of licenses purchased pursuant to the Quote, and up to one archival and 
+backup copy of the Software. 
+
+(iii) Modify, translate, adapt, reverse engineer, decompile, disassemble, incorporate the Software, in whole 
+or in part, in any other product, or create derivative works based on the Software. If, notwithstanding the 
+foregoing restrictions, Licensee makes any modifications, enhancements or derivative works to the 
+Software, Licensee hereby assigns to Altair all rights, title, and interest in and to such modifications, 
+enhancements, and/or derivative works. 
+
+(iv) Use the Software to provide, or attempt to provide, any facility management, time sharing, service 
+bureau, application hosting, application service provider (ASP), third party consulting service or other 
+similar services, or to provide access to data to customers or other third parties. 
+
+(v) Rent, lease, sell, lend, license or sublicense the Software to a third party or operate the software for the 
+benefit of a third party, including in the provision of consulting services for third party clients. Any 
+attempted rental, lease, sale, license or sublicense in violation of this License Agreement shall be void. 
+
+(vi) Remove any copyright, patent, trademark, proprietary rights, disclaimer or warning notice included on 
+or embedded in any part of the Software or any copy of the Software. 
+
+(vii) Use software or hardware to reduce the number of users directly accessing or using the Software 
+(sometimes called "multiplexing" or "pooling" software or hardware). Multiplexing or pooling does not 
+reduce the number of Software licenses required. Licensee must purchase the number of client licenses 
+equal to the number of distinct user inputs to the front end of the multiplexing or pooling software or 
+hardware. 
+
+(viii) Export the Software for the purposes of directly populating or loading any database or database 
+management system for other than personal use. 
+
+(ix) Use the Software as part of any automated process developed using scripting, APIs or other 
+programmatic methods. 
+
+(x) Permit others (including Authorized Users) to do any of the foregoing. 
+
+(g) Audit. Licensee agrees to allow Altair or its agent to inspect or conduct an independent audit from time to time 
+on Licensee's use of the Software to verify Licensee's compliance with this License Agreement and the Quote. In 
+the event that any audit reveals an underpayment by Licensee of more than five percent (5%) of the amounts due 
+Altair in the period being audited, or that Licensee has breached any term of this License Agreement or Quote, then, 
+in addition to any other remedies Altair may have, Licensee will promptly pay to Altair any underpayments and the 
+cost of the audit and correct any non-compliance. 
+
+2. MAINTENANCE: If Licensee has purchased a maintenance contract on the Quote, Altair will provide Licensee 
+with the following services ("Maintenance"): (1) telephone or email support from Monday through Friday during 
+Altair's normal business hours, except public holidays; (2) supply of maintenance releases of the Software as 
+described below; and (3) notification of product problems and solutions. Maintenance is available for the current 
+Software version and the prior version. Provided that Licensee's Maintenance is not lapsed, Altair agrees to provide 
+Licensee, free of charge, with such maintenance releases,bug fixes, corrections, enhancements, updates and new 
+releases to the Software (other than those independently priced and licensed) as Altair may release (collectively 
+"Updates"). All Updates and upgrades shall be considered part of the Software for purposes of the License 
+Agreement and shall be governed by all the same terms and conditions of this License Agreement and the Quote as 
+are applicable to the Software. To reinstate lapsed Maintenance, Licensee may be required to pay Maintenance fees 
+for the full lapsed period plus the annual period going forward from the renewal date (at the maintenance price 
+current at the time of the reinstatement), in addition to a reinstatement fee. Maintenance that lapses for more than six 
+(6) months is not eligible for reinstatement.  Altair shall have no obligation to maintain or support (a) altered, 
+damaged or Licensee-modified Software, or any portion of the Software incorporated with or into other software not 
+provided by Altair; (b) any version of the Software other than the current version of the Software or the immediately 
+prior release of the Software; (c) problems caused by Licensee's negligence, abuse or misapplication of Software 
+other than as specified in the Documentation, or other causes beyond the reasonable control of Altair; or (d) 
+Software installed on any hardware, operating system version or network environment that is not supported by 
+Altair. Maintenance also excludes configuration of hardware, non-Altair Software, and networking services; 
+consulting services; general solution provider related services; and general computer system maintenance.
+
+3. OWNERSHIP: Licensee acknowledges and agree that Altair and its suppliers maintain exclusive ownership of all 
+right, title and interest in and to the Software, in all forms and all copies thereof including, without limitation, any 
+and all worldwide copyrights, patents, trade secrets, trademarks, and proprietary and confidential information rights 
+associated with the Software. Licensee agrees to reproduce and include the copyright notices on any copies of the 
+Software which Licensee are permitted to make. The Software is protected by US copyright laws and international 
+copyright treaties, as well as other intellectual property laws and treaties. This is a license, not a sale of the Software 
+or any copy of it, nor is it a waiver of any intellectual property rights of Altair. Licensee acknowledges and agrees 
+that nothing in this License Agreement or the Quote gives Licensee any right, title or interest in or to the Software 
+except for the limited express rights granted pursuant to Section 1 of this License Agreement. All rights not 
+expressly granted herein shall be reserved to Altair. No implied licenses are granted hereunder. 
+
+4. DELIVERY: Altair shall deliver the Software set forth on the Quote via electronic delivery to the address set 
+forth on the Quote, or, if electronic delivery is somehow not practicable in Altair's judgment, then FOB shipping 
+point. Unless otherwise agreed by the parties, the Software will be delivered on media containing, together, one 
+copy of the Software and one copy of such user manuals and other printed material which may be included with the 
+Software. Licensee assumes all risk of loss, damage or destruction of the Software after receipt of the Software. 
+
+5. PAYMENT: License and Maintenance Fees are billed according to the schedule outlined in the Quote. Invoices 
+shall be paid by Licensee within thirty (30) days of receipt. Any late payments to Altair will accrue interest at the 
+lesser of (i) eighteen percent (18%) per annum and (ii) the maximum interest allowable by law. Licensee must notify 
+Altair in writing within thirty (30) days of receipt of invoice of any disputed amounts and must pay all undisputed 
+amounts in full when due. Licensee shall be responsible for all reasonable costs incurred by Altair in connection 
+with collecting amounts past due, including without limitation, attorney and collection fees. All fees and expenses 
+are exclusive of any national, state, municipal, or other governmental excise, sales, value-added and occupational 
+taxes and other fees and levies, all of which Licensee shall be responsible for and will pay in full, other than taxes 
+based on Altair's net income. 
+
+6. CONFIDENTIALITY: Licensee acknowledges and agrees that the Software is confidential information of Altair 
+and that it constitutes valuable proprietary information and trade secrets of Altair. Accordingly, Licensee agrees to 
+use the Software only in accordance with the terms and conditions of this License Agreement and to implement 
+commercially reasonable procedures to prevent other persons from obtaining access to or use of the Software 
+without Licensee's knowledge and Altair's prior express written permission. 
+
+7. TERMINATION: 
+
+(a) Termination by Licensee. Licensee may terminate this License Agreement and related licenses at any time by 
+destroying the Software, together with all copies in any form, and providing Altair with written notice of termination 
+and certifying such destruction. In the event of any such termination, Licensee agrees that any pre-paid fees are non-
+refundable. If the Quote provides for ongoing payments during a specified term, or Licensee has not paid all fees 
+due and Licensee terminates prior to the end of such term, Licensee agrees to pay the full amount that has or would 
+have become due during such term, and such payment shall be due in full upon termination. 
+
+(b) Termination by Altair. Without prejudice to any other rights, Altair may terminate this License Agreement and 
+the Quote immediately upon written notice to Licensee if Licensee fails to comply with any of the terms and 
+conditions of this License Agreement (including without limitation any violation of the restrictions set forth in 
+Section 1(f) or the failure to pay any amounts owed by Licensee to Altair pursuant to this License Agreement or the 
+Quote), or in the event that Licensee ceases its business operations, makes a general assignment for the benefit of 
+creditors, is adjudged bankrupt, or becomes insolvent. 
+
+(c) Effect of Termination or Expiration. Upon termination of this License Agreement for whatever reason, all 
+Quotes regarding Licensee's use of the Software, and all licenses granted hereunder and there under, shall be 
+immediately terminated. Within 15 days following the effective date of such termination or expiration, Licensee 
+must return to Altair or destroy all copies of the Software and all of its component parts and delete or otherwise 
+remove the Software from any computer hardware on which it was installed, and promptly certify in writing to 
+Altair that the same have been returned or destroyed. Termination of this License Agreement or the Quote shall not 
+relieve either party of any payment or other obligation under this License Agreement or the Quote which was to 
+have been performed by such party prior to termination. Sections 1(f), 1(g), 3, 5, 6, 7(c), 8(b), 8(c) and 10-17 of this 
+License Agreement shall survive the termination or expiration of this License Agreement. 
+
+8. LIMITED WARRANTY AND LIMITATION OF LIABILITY: 
+
+(a) Altair warrants solely that, for a period of thirty (30) days from the date of Licensee's receipt of the Software, (i) 
+the Software will function substantially in accordance with published specifications on the date of delivery to 
+Licensee provided that Licensee uses the Software in accordance with this License Agreement, the Documentation, 
+and as otherwise directed by Altair; and (ii) the media on which the Software is distributed are free from defects in 
+materials and in workmanship. This warranty does not apply if: (1) the Software has been altered or modified, (2) 
+the Software has not been installed, operated, repaired or maintained in accordance with the Documentation, (3) the 
+Software has been subjected to abnormal physical or electrical stress, misuse, negligence or accident, (4) the version 
+of the Software used does not include all Updates available from Altair, or (5) the defect or error was caused by 
+third-party hardware or software malfunctions or software provided by a third party and included in the Software 
+("Third Party Software"), or failure or by acts or omissions caused by persons other than Altair. Provided that 
+Licensee gives notice of return to Altair within such 30-day period and that Licensee returns the Software no later 
+than ten days after the expiration of such 30-day period, a copy of this License Agreement and the Quote and a 
+written statement specifying in reasonable detail the nature of the claimed non-conformance or defect then, as 
+Licensee's exclusive remedy and as Altair's entire liability, whether in contract, tort or otherwise, for non-
+conformity with the foregoing limited warranty, Altair will, at its discretion, do one of the following: (a) use 
+reasonable commercial efforts to correct the non-conformance or defect of the Software; (b) replace the Software at 
+no additional charge; or (c) refund the license fee and terminate Licensee's license to Use the Software. Altair does 
+not warrant that the Software will meet Licensee's requirements or that the operation of the Software, or any Third-
+Party Software, will be uninterrupted or error free. No oral or written information given by Altair, its agents, or 
+employees shall create a warranty. The limited warranty provided in this Section 8(a) gives Licensee specific legal 
+rights and Licensee may also have other rights which vary from jurisdiction to jurisdiction. Provided that Licensee 
+uses the Software as made available by Altair in accordance with the terms of this Agreement, Altair hereby 
+represents that no open source Third Party Software included in the Software will require Licensee to disclose any 
+Licensee source code.  
+
+(b) EXCEPT AS EXPRESSLY SET FORTH IN SECTION 8(a) ABOVE, ALTAIR DISCLAIMS ALL OTHER 
+WARRANTIES, EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED 
+WARRANTIES OF TITLE, NONINFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A 
+PARTICULAR PURPOSE (REGARDLESS OF ANY KNOWLEDGE OF LICENSEE'S PARTICULAR NEEDS) 
+AND THOSE ARISING BY STATUTE OR OTHERWISE IN LAW OR FROM A COURSE OF DEALING OR 
+USAGE OF TRADE. IF IMPLIED WARRANTIES MAY NOT BE DISCLAIMED BY APPLICABLE LAW, 
+THEN ANY IMPLIED WARRANTIES ARE LIMITED IN DURATION TO 30 DAYS AFTER RECEIPT OF 
+THE SOFTWARE. SOME JURISDICTIONS DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED 
+WARRANTY LASTS SO THE ABOVE LIMITATION MAY NOT APPLY. Licensee assumes full responsibility 
+for the selection of the Software to achieve Licensee's intended results and for the installation, use, and results 
+obtained from the Software, including but not limited to providing a suitable system for installation, providing the 
+appropriate environment for operating the Software and loading Licensee's data. Due to the inherent complexity of 
+computer software, Licensee is advised to verify its work. 
+
+(c) ALTAIR'S CUMULATIVE LIABILITY IN CONTRACT, TORT OR OTHERWISE ARISING OUT OF OR IN 
+CONNECTION WITH THE SOFTWARE, OR ALTAIR'S AGREEMENT WITH LICENSEE, SHALL NOT 
+EXCEED THE LICENSE FEES PAID BY LICENSEE FOR THE SOFTWARE IN THE PRECEDING TWELVE 
+MONTHS. IN NO EVENT SHALL ALTAIR OR ITS DEVELOPERS, DIRECTORS, OFFICERS, EMPLOYEES, 
+AFFILIATES OR SUPPLIERS BE LIABLE FOR SPECIAL, INDIRECT, EXEMPLARY, INCIDENTAL, 
+PUNITIVE OR CONSEQUENTIAL DAMAGES (INCLUDING ANY DAMAGES RESULTING FROM LOSS 
+OF USE, LOSS OF DATA, LOSS OF PROFITS, LOSS OF SAVINGS, LOSS OF BUSINESS OR OTHER 
+ECONOMIC LOSS). THE FOREGOING LIMITATION SHALL APPLY REGARDLESS OF THE CAUSE OF 
+ACTION UNDER WHICH DAMAGES ARE SOUGHT AND EVEN IF ALTAIR OR A REPRESENTATIVE OF 
+ALTAIR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+
+IF APPLICABLE LAW RESTRICTS THE EXCLUSION OR LIMITATION OF CERTAIN TYPES OF 
+DAMAGES, THEN THE FOREGOING PROVISIONS SHALL BE DEEMED TO EXCLUDE AND LIMIT 
+ALTAIR'S LIABILITY FOR ANY SUCH DAMAGES TO THE MAXIMUM EXTENT PERMITTED BY LAW. 
+
+Licensee acknowledges that Altair has established the license fee for the Software based on the limitations contained 
+in this Section 8 and Licensee has agreed to the license fee paid based in part upon Licensee's agreement with and 
+acceptance of the terms of this Section 8. 
+
+9. INDEMNIFICATION: 
+
+(a) Indemnity. Altair shall indemnify, defend and hold harmless Licensee and Licensee's directors, officers, agents, 
+Authorized Users, and employees (collectively, the "Indemnified Parties") against all losses, damages, liabilities, 
+costs, and expenses (including but not limited to attorneys' fees) resulting from any action, suit, claim, demand, or 
+proceeding, that the Software or Use thereof infringes or misappropriates any United States patent, copyright or 
+trademark of any third party. The foregoing shall not apply unless the Indemnified Parties (i) inform Altair as soon 
+as practicable of the suit or action alleging such infringement, (ii) allow Altair to control the defense of such suit or 
+action and any related negotiations or settlement, and (iii) cooperate with Altair in such defense or settlement. 
+
+(b) Limitations. If the Software is held to infringe or is believed by Altair to possibly infringe, Altair shall have the 
+option, at its expense, to (i) modify the Software to be non-infringing; or (ii) obtain for Licensee a license to 
+continue using the Software. If Altair determines it is not commercially reasonable to perform either of the above 
+options, then Altair may at its option elect to terminate the license for the Software and refund the fees paid to Altair 
+by Licensee for the Software on a monthly amortization basis including only the period for which the specific 
+license was granted. THIS SECTION STATES LICENSEE'S SOLE AND EXCLUSIVE REMEDY FOR 
+INFRINGEMENT OR CLAIMS ALLEGING INFRINGEMENT. Notwithstanding any other provision of this 
+License Agreement, Altair assumes no liability, and shall have no liability, for any claims or allegations of 
+infringement with respect to the Software, or any software in or with which the Software may be used, based on: (1) 
+an Indemnified Party's use of the Software after Altair's notice to cease use of the Software due to a claim or 
+allegation of infringement; (2) any modification of the Software by an Indemnified Party or pursuant to Licensee's 
+provided specifications; (3) an Indemnified Party's combination of Software with non-Altair Software, data, 
+hardware, or other materials, if such infringement claim would have been avoided by the exclusive use of the 
+Software alone; (4) Third Party Software; (5) Use of the Software that does not include all Updates available from 
+Altair if such Update is necessary to avoid infringement; (6) any trademark or trade name infringement involving 
+any marking or branding of an Indemnified Party; or (7) use of any Software licensed pursuant to Section 1(f) of this 
+License Agreement. 
+
+10. GOVERNING LAW AND JURISDICTION: This License Agreement and the Quote shall be governed, 
+interpreted, and enforced by the laws of the State of Delaware, excluding Delaware's choice of law principles, and 
+all claims relating to or arising out of this License Agreement, or the breach thereof, whether sounding in contract, 
+tort or otherwise, shall likewise be governed by the laws of the State of Delaware, excluding Delaware's choice of 
+law principles, except if the State of Delaware adopts the Uniform Computer Information Transactions Act drafted 
+by the National Conference of Commissioners of Uniform State Laws as revised or amended as of June 30, 2002 
+("UCITA") which is specifically excluded. In the event that an action or claim arises outside of the exclusive 
+jurisdiction specified herein which names Altair as a party, Altair and Licensee specifically agree to initiate, consent 
+to and/or cooperate with any and all efforts to remove the matter to the exclusive jurisdiction named herein, or 
+otherwise take any and all reasonable actions to achieve the objectives of this provision. The parties hereby exclude 
+the United Nations Convention on Contracts for the International Sale of Goods and the Uniform Computer 
+Information Transactions Act from this License Agreement and the Quote. Each party waives its right to a jury trial 
+in the event of any dispute arising under or relating to this License Agreement. No action, regardless of form, arising 
+out of the transactions under this Agreement may be brought by either party against the other more than two (2) 
+years after the cause of action has accrued, except for actions related to unpaid fees.
+
+11. TRANSFER OF LICENSE: Licensee may not transfer or assign this License Agreement or the Quote, any 
+licenses granted hereunder or all or a portion of the Software to any third party. Altair may freely assign this License 
+Agreement and the Quote in whole or in part. 
+
+12. ENTIRE AGREEMENT: This License Agreement and the Quote, if applicable, together constitute the entire 
+agreement and understanding of the parties and supersede all prior and contemporaneous agreements, 
+understandings, negotiations and proposals, oral or written, including any shrink wrap license agreement included 
+with the Software, and any other or different terms or conditions in any purchase orders, Licensee's websites 
+(including any terms or conditions subject to an accept button or similar means of indicating acceptance) or other 
+documents will be deemed null and void. Except for: (i) the incorporation by reference to this License Agreement or 
+the actual attachment of this License Agreement, or (ii) any terms on an Altair issued invoice pertaining to price, 
+quantity, Software product; no other terms (pre-printed, on the front or back of any Licensee PO, or incorporated by 
+reference) on Licensee's purchase order shall apply. This License Agreement and the Quote may be amended or 
+modified only by a subsequent agreement in writing signed by each of the parties and may not be modified by 
+course of conduct or the terms of any purchase order or sales invoice. The waiver by either party of a breach of a 
+term or condition of this License Agreement or the Quote must be in writing and will not be construed as a waiver of 
+any subsequent breach of such term or condition or the waiver of the provision itself. A party's performance after 
+the other party's breach shall not be construed as a waiver of that breach. In the event of any conflict between the 
+terms of this License Agreement and those of the Quote, the terms of the Quote shall govern with respect to the 
+subject matter of such conflicting terms. 
+
+13. SEVERABILITY: In the event any provision of this License Agreement or the Quote is found to be invalid, 
+illegal or unenforceable, the validity, legality and enforceability of any of the remaining provisions shall not in any 
+way be affected or impaired thereby, and that provision shall be reformed, construed and enforced to the maximum 
+extent permissible, provided that this License Agreement and the Quote shall not then substantially deprive either 
+party of the bargained-for performance of the other party. Any such invalidity, illegality or unenforceability in any 
+jurisdiction shall not invalidate or render illegal or unenforceable such provision in any other jurisdiction. 
+
+14. U.S. GOVERNMENT RESTRICTED RIGHTS: This section applies to all acquisitions of the Products by or for 
+the United States federal government.  By accepting delivery of the Products, the Licensee hereby agrees that the 
+Products qualify as "commercial computer software" as that term is defined in Federal Acquisition Regulation 
+(FAR) 2.101 and Department of Defense FAR Supplement (DFARS) clause 252.227-7014(a)(1), as applicable, and 
+the Government shall have only the rights in the Products specified in this Agreement in accordance with FAR 
+12.212 and DFARS 227.7202-3(a), as applicable.  This Agreement supersedes any contrary terms or conditions, 
+including, without limitation, any noncommercial computer software FAR, DFARS, or other FAR agency 
+supplemental clauses contained in any purchase order, statement of work, contract, or other document.  If any 
+provision of this Agreement is unacceptable to the government, Altair may be contacted at Altair Engineering, Inc., 
+1820 E. Big Beaver Road, Troy, MI 48083-2031; telephone (248) 614-2400.  If any provision of this Agreement 
+violates applicable federal law or does not meet the government's actual, minimum needs, the Licensee agrees to 
+return the Products for a full refund. 
+
+15. EXPORT LAWS: None of the Software or underlying information or technology may be downloaded or 
+otherwise exported or re-exported (i) into (or to a national or resident of) any country to which the U.S. has 
+embargoed goods; or (ii) to anyone on the U.S. Treasury Department's list of Specially Designated Nationals or the 
+U.S. Commerce Department's Table of Denial Orders. By downloading or using the Software, Licensee agrees to 
+the foregoing and represents and warrants that Licensee is not located in, under the control of, or a national or 
+resident of any such country or on any such list. In addition, Licensee agrees to comply with all relevant export laws 
+and regulations of the United States and any local laws in Licensee's jurisdiction that may impact Licensee's right to 
+import, export or use the Software, and represents that Licensee has complied with any regulations or registration 
+procedures required by applicable law to make this license enforceable. 
+
+16. REMEDIES: Licensee acknowledges the uniqueness of the Software and agrees that a breach of this License 
+Agreement by Licensee could cause Altair irreparable harm for which money damages may not be adequate, and 
+that Altair shall therefore be entitled to obtain, in addition to any other rights of recovery Altair may be entitled to 
+pursue at law or in equity, timely injunctive relief to protect Altair's rights under this License Agreement without the 
+necessity of posting a bond. Any such relief will be in addition to and not in lieu of any appropriate relief in the way 
+of monetary damages as may be granted by a court of competent jurisdiction. 
+
+17. U.S. FOREIGN CORRUPT PRACTICES ACT; ANTI-BRIBERY AND CORRUPTION: The parties agree to 
+comply with, and not to perform any act that would subject the other party to sanctions under the U.S. Foreign 
+Corrupt Practices Act and/or all applicable international anti-bribery and corruption laws, regulations, and orders. In 
+particular, the parties agree that in connection with, or in the performance of this License Agreement, a party will 
+not make or promise to make any payment (whether in currency, property or other thing of value) to any third 
+person, firm or entity (including, without limitation, any government official or representative) for the purpose of 
+obtaining or retaining business. Each party agrees that it does not desire and will not request any service or action by 
+the other party that would or might constitute a violation of the Foreign Corrupt Practices Act and/or any applicable 
+international anti-bribery and corruption laws, regulations and orders, including but not limited to the UK Bribery 
+Act. 
+
+18. GENERAL: The terms, representations, warranties and agreements of the parties set forth in this License 
+Agreement are not intended for, nor shall they be for the benefit of or enforceable by, any third party. This License 
+Agreement and any Quote may be executed in two or more counterparts and by PDF, each of which shall be deemed 
+to be an original for all purposes hereof. Notice under this License Agreement shall be in writing and may be by 
+overnight mail, in person, or by electronic mail and shall be deemed served when delivered. 
+
+19. PROFESSIONAL SERVICES: Altair may make available to Licensee project management, consulting, training 
+and implementation services (collectively, "Professional Services") as indicated in an Quote or as otherwise 
+mutually agreed. Such Professional Services are available to assist Licensee, under Licensee's direction and at 
+Licensee's responsibility, in the implementation of the Software or in various post-implementation projects or tasks 
+that may occur from time to time. Professional Services shall be made available at Altair's prevailing rates. If 
+Professional Services are included in the Quote, Altair shall make commercially reasonable efforts to schedule such 
+Professional Services in accordance with Licensee's request. When Altair does schedule an appointment 
+("Appointment") for the commencement of one or more such Professional Services and Licensee, at Licensee's own 
+volition for whatever reason, postpone or cancel such Appointment within five working days of the Appointment 
+date, Altair may, at its discretion, invoke a charge for breaking the Appointment equal to 100% of the normal billing 
+rate for such services which would have commenced at the time of the Appointment. If Licensee breaks an 
+Appointment between six and ten working days prior to such an Appointment, Altair may, at its discretion, invoke a 
+penalty charge of 50% of the billing charge for such services which would have commenced at the time of the 
+Appointment. Consultancy and training days ordered must be scheduled to be performed within three months of the 
+date of order or they will be invoiced and must be paid for as if they have been performed by Altair; such days 
+invoiced and paid for will remain available to be used for a further three months, after which they will lapse. For 
+each training day provided by Altair, Altair will provide up to six sets of Documentation for Licensee's internal 
+training purposes at no additional charge. Licensee may not make copies of the Documentation. Additional sets of 
+Documentation may be provided to Licensee at a reasonable additional cost.
+
+
+Rev. September 2022		Page 1 of 1		
